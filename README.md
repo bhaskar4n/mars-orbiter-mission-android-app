@@ -1,7 +1,6 @@
 
 <img src = "https://cloud.githubusercontent.com/assets/6498891/3718115/a508238e-1631-11e4-959b-12e32fa7497c.png"/>
-## it will work upto september 26 2014 only.(because,the data are collected upto sep 26 2014 only.)
-i did not use API for this application. because API does not available. so i had collected the data from the NASA horizon's system to built this applicaton.
+## it will work upto september 26 2014 only.(because data collected upto sep 26 2014 only.)
 
 ####collected data:
 light time - mars, earth, sun(for 300 days)
